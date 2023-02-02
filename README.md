@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @crimson206
-- 👀 I’m interested in the machine learning as well
-- 🌱 I’m currently learning OOP and Clean Code
-- 💞️ I’m looking for a job as a software engineer, or PhD student
+- 🌱 I’m currently learning OOP and Clean Code and German language
+- 💞️ I’m looking for a job as a software engineer
 - 📫 How to reach me?
 - If you are willing to offer me an opportunity of a software engineer position,
 - please send me an e-mail:
