@@ -1,5 +1,13 @@
-Hi, I'm Sisung. With a background in Physics, I've always sought ways to apply my love for mathematics and science. Recently, I turned to data science and found a fascinating world where math comes alive in exciting and tangible ways.
+# Greeting
+Thank you for visiting my GitHub.
+I am a passionate AI developer. Please look around the pinned repositories.
 
-I'm exploring advanced neural networks, inspired by their creative potential. Technologies like GPT intrigue me, pushing me to look beyond conventional methods.
+# Short descriptions of the pinned repositories.
 
-Currently focused on innovation and real-world applications, I'm eager to connect with like-minded individuals. If you share my passion, feel free to reach out.
+1. [Streamlit Blog](https://github.com/crimson206/streamlit_blog)\
+   This repository is to share the streamlit apps.\
+   You can consider this page as streamlit cookbook, meaning I don't really use them, but store them as references.
+
+3. [OpenAI Proxy Shortcut](https://github.com/crimson206/openai_proxy_shortcut)
+   This repository is to proxy openai client using [paperspace](https://www.paperspace.com/) notebook.\
+   Paperspace provides very nice subscription plans. Use openai proxy models relying on their computational support.
