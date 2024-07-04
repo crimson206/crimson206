@@ -1,1 +1,1 @@
-Please check the [About](https://github.com/crimson206/About) page for my profile, skills and promising projects.
+Please check the [About](https://github.com/crimson206/crimson206/blob/main/About.md) page for my profile, skills and promising projects.
