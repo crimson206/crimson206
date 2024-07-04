@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hi, I'm Siung Kim, a DevOps & AI (Python-based) developer. For more detailed information about my profile, skills, projects or collaboration opportunities, please visit my [About.md](https://github.com/crimson206/crimson206/blob/main/About.md).
+Hi, I'm Siung Kim, a DevOps & AI (Python-based) developer. For more detailed information about my **profile**, **skills**, **projects** or **collaboration opportunities**, please visit my [About.md](https://github.com/crimson206/crimson206/blob/main/About.md).
 
 ## Pinned Repositories
 
