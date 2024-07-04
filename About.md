@@ -1,85 +1,77 @@
-## Greeting
+Hi, I am Siung Kim.
 
-Hi, I am Siung Kim.\
+If you are a Python developer, you might come across my packages with the namespace `crimson` from time to time in the near future. If you're skeptical, try the [IntelliType](https://github.com/crimson206/intelli-type) module first. Now, I can't develop other modules without it.
 
-If you are python developers, you will happen to use my packages with the namespace `crimson` from time to time in the near future. If you can't believe it, try the [IntelliType](https://github.com/crimson206/intelli-type) module first. Now, I can't develop other modules without it.
+I have bachelor's and master's degrees in Physics. Since experiencing ChatGPT, I have dedicated all my time and background to AI. While studying and developing AI applications, I grew tired of the instability and messy code in many AI-related modules. Although the AI field is rapidly growing, it will take time to stabilize.
 
-I have bachelor and master degrees in Physics. Since I experienced ChatGPT, I am dedicating my all time and background to AI. While studying and developing AI applications, I got sick and tired of the instability and dirty codes of many AI related modules. While AI field is growing so fast, it will take time to stabilize it.
+I also decided to focus on stabilization first. If you share this sentiment, please follow me.
 
-I also decided to focus on the stabilization first. If you have things in common with me, please follow me up.
+### Interests
 
-**Interests**
 - Establishing New Development Style
 - Clean Code
-- LLM based Multi-modal Applications
+- LLM-based Multi-modal Applications
 - AI-based Automation
 
-## Collaboration
+### Collaboration
 
 **Development Environment**
-- I am establishing a new development style called 'Micro-wise Development'. If you want to apply this into your company, please contact me.
+
+- I am establishing a new development style called 'Micro-wise Development'. If you want to apply this to your company, please contact me.
 
 **Automation & Clean Code**
-- I am a very lazy person. I really hate working on repeated tasks. That is why I am investing 60~70 hours a week to automate them. I really hated to write docstrings. They doesn't have the functionalities, and many contents are duplicated, and ... and... I now really like it. When I write docstring, I hardly write repeated things. I accomplished it from both my automation and Clean Code skills. If you want to apply the same level of standard in your company or institute, please contact me.
+
+- I am a very lazy person. I really hate working on repetitive tasks. That is why I am investing 60-70 hours a week to automate them. I used to dislike writing docstrings due to their redundancy, but now I enjoy it thanks to [IntelliType](https://github.com/crimson206/intelli-type). The module is also based on my automation and clean code skills. If you want to apply the same standards in your company or institution, please contact me.
 
 **AI Applications**
-- I basically started everything because of AI. While they don't look like to be related to AIs, I am always thinking of the integration with AIs. If your company does AI, and want to listen to my perspectives as a DevOp & AI expert, please contact me.
 
-## Programming Languages
+- I started everything because of AI. Even if things don't seem related to AI, I always think about integrating AI. If your company works with AI and you want to hear my perspectives as a DevOps & AI developer, please contact me.
 
-- Python: Advanced
-    I am currently publish many small pypi modules.
-    I have projects, such as, 'Micro-wise Development' and 'Python Storybook'
+### Programming Languages
 
-- TypeScript: Intermediate
-    I started TypeScript to develop my own AI applications.
-    I am interested in Python-Typescript integration based on Storybook, and
-    it is the 'Python Storybook' project.
+- **Python: Advanced**\
+ I currently publish many small PyPI modules. I have projects such as 'Micro-wise Development' and 'Python Storybook'.
 
-## Projects
+- **TypeScript: Intermediate**\
+ I started TypeScript to develop my own AI applications. I am interested in Python-Typescript integration based on [Storybook](https://storybook.js.org/docs), which is the 'Python Storybook' project.
 
-- Micro-wise Development:
-    - Initiation:
-        This project was inspired from Storybook, or component-driven development.
-        In Storybook, each component is separately developed, tested, and you can generate dedicated examples for each component.
-        I decided to import the concept to python.
+### Projects
 
-    - Repository:
-        Please check the [repository](https://github.com/crimson206/microwise-development) for the general information.
+**Micro-wise Development**
 
-- Python-Storybook:
-    The purpose of this project is to generate Storybook(typescript) components automatically from python functions. See the prototype below.
+- **Initiation**: This project was inspired by Storybook, or component-driven development. In Storybook, each component is developed and tested separately, and you can generate dedicated examples for each component. I decided to import this concept to Python.
 
-    ![python storybook example](static/python_storybook/endpoint.png)
-    ![python storybook example](static/python_storybook/component.png)
+- **Repository**: Please check the [repository](https://github.com/crimson206/microwise-development) for general information.
 
-    Although I didn't bring an example with a function, all belows must be automated.
+**Python-Storybook**: The purpose of this project is to generate Storybook (TypeScript) components automatically from Python functions. See the prototype below.
 
-    - {FuncName}InputProps
-    - {FuncName}OutProps
-    - All the elements in Props, such as, annotation, description.
-    - endpoint
-    - typescript function wrapper
-    - Storybook Component
+![python storybook example](static/python_storybook/endpoint.png)
+![python storybook example](static/python_storybook/component.png)
 
-    **Delaying Factors**
+Although I haven't provided an example with a function, all of the below must be automated:
 
-    - Reliability
-        The example is also generated in that manner.
-        For the agreed types(int, str, List...), all the technical stacks were prepared. However, I will not buy the potential dependency hell. It means that, the priority of it is behind that of Micro-wise Development. A stable and extendable Python-Storybook will be published soon or later with Clean Code. 
+- {FuncName}InputProps(BaseModel)
+- {FuncName}OutProps(BaseModel)
+- All the elements in Props, such as annotation, description.
+- endpoint
+- TypeScript function wrapper
+- Storybook Component
 
-    - Publication Generalization
-        To generate an interactive document of python module, app publication is the most stable currently. There are some attempts to use python in browser directly(Pyodide, python in StackBlitz, and more...), but they are unstable, and very limited. Therefore, we will make the deployed endpoints using GCP or AWS. It means, you allow users to use the cloud computational resource you need to pay for. We need a generalized controller for the Rate Limits.
+**Delaying Factors**
 
-    **Further Usage**
+- **Reliability**: The example is generated in that automatic manner above. For agreed types (int, str, List...) through `json`, all the technical stacks were prepared. However, I will not buy into potential dependency hell. Therefore, its priority is behind that of Micro-wise Development. A stable and extendable Python-Storybook will be published sooner or later with clean, stable and extendable code.
 
-    While the initial goal is to realize the automated interactive docs of python modules, the automatically imported functions in typescript, of course, can be used for further purposes.
-    
-    - Autodocs of Storybook:\
-        Check my [IntelliType](https://github.com/crimson206/intelli-type) and [AutoPydantic](https://github.com/crimson206/auto-pydantic) modules. I am a python typehint expert. To get the specified interfaces for each args, such as, radio, select box, so on, we need to add one more denotation. I, as the developer, have to touch the typescript scripts to realize it, and you, as users, will set the denotation in python script. For this, we can generate special types like `arg1 : Range(int, (1, 10]))`.
+- **Publication Generalization**: To generate an interactive document of Python modules, app publication is currently the most stable method. There are attempts to use Python directly in the browser ([Pyodide](https://github.com/pyodide/pyodide), [Python in StackBlitz](https://developer.stackblitz.com/guides/user-guide/available-environments#webcontainers), etc.), but they are unstable and limited. Therefore, we will use GCP or AWS to deploy endpoints. This means users will use the cloud computational resources that you need to pay for, and we need a generalized controller for rate limits at least.
 
-    - Publish as Components:\
-        I initially started this project to component-rise the AI applications in python. You develop a complete RAG or ChatBot application solely in python scripts, and push it to the Python-Storybook, and you have your AI web-application without additional front-end efforts.
+**Further Usage**
 
-    - Extensions:\
-        Storybook extends its functionalities using add-ons. If you start to use Python-Storybook, you will definitely want to learn Typescript as well. We can use different Storybook add-ons for the extendibility, but we can also develop our on add-ons in typescript-side or in python-side.
+While the initial goal is to create automated interactive docs of Python modules, the automatically imported functions in TypeScript can be used for further purposes.
+
+- **Autodocs of Storybook**\
+ Check my [IntelliType](https://github.com/crimson206/intelli-type) and [AutoPydantic](https://github.com/crimson206/auto-pydantic) modules. I am a Python type hint expert. To get [specified interfaces](https://storybook.js.org/docs/essentials/controls) for each argument for Stories, such as radio buttons, select boxes, etc., we need to add one more annotation. I, as the developer, have to touch the TypeScript scripts to implement it, and you, as users, will set the annotation just in the Python script. For this, we can generate special types like `arg1: Range(int, (1, 10])`.
+
+- **Publish as Components**\
+ I initially started this project to componentize AI applications in Python. You can develop a complete RAG or ChatBot application solely in Python scripts, push it to Python-Storybook, and have your AI web application without additional front-end efforts.
+
+- **Extensions**\
+ Storybook extends its functionalities using add-ons. If you start using Python-Storybook, you will definitely want to learn TypeScript as well. We can use different [Storybook add-ons](https://storybook.js.org/docs/addons) for extensibility, or develop our own add-ons on the TypeScript or Python side.
