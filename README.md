@@ -4,7 +4,7 @@
 
 Hi, I'm Siung Kim, a DevOps & AI (Python-based) developer. For more detailed information about my profile, skills, and projects, please visit my [About.md](https://github.com/crimson206/crimson206/blob/main/About.md).
 
-## Projects
+## Pinned Repositories
 
 ### [IntelliType](https://github.com/crimson206/intelli-type)
 IntelliType is a Python module that enhances code documentation by adding [hover-capable](https://github.com/crimson206/intelli-type?tab=readme-ov-file#autopydantic) docstrings to type hints, improving code readability and documentation. This feature makes IntelliType an essential tool for developing other modules with clean and maintainable code.
