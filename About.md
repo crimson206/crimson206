@@ -25,7 +25,7 @@ I also decided to focus on stabilization first. If you share this sentiment, ple
 
 **AI Applications**
 
-- I started everything because of AI. Even if things don't seem related to AI, I always think about integrating AI. If your company works with AI and you want to hear my perspectives as a DevOps & AI developer, please contact me.
+- I started everything because of AI. Even if things don't seem related to AI, I always think about integrating AI. If your company works with AI and you want to hear my perspectives as a DevOps & AI Application developer, please contact me.
 
 ### Programming Languages
 
