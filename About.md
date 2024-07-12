@@ -6,14 +6,14 @@ I have bachelor's and master's degrees in Physics. Since experiencing ChatGPT, I
 
 I also decided to focus on stabilization first. If you share this sentiment, please follow me.
 
-### Interests
+## Interests
 
 - Establishing New Development Style
 - Clean Code
 - LLM-based Multi-modal Applications
 - AI-based Automation
 
-### Collaboration
+## Collaboration
 
 **Development Environment**
 
@@ -27,7 +27,7 @@ I also decided to focus on stabilization first. If you share this sentiment, ple
 
 - I started everything because of AI. Even if things don't seem related to AI, I always think about integrating AI. If your company works with AI and you want to hear my perspectives as a DevOps & AI Application developer, please contact me.
 
-### Programming Languages
+## Programming Languages
 
 - **Python: Advanced**\
  I currently publish many small PyPI modules. I have projects such as 'Micro-wise Development' and 'Python Storybook'.
@@ -35,33 +35,18 @@ I also decided to focus on stabilization first. If you share this sentiment, ple
 - **TypeScript: Intermediate**\
  I started TypeScript to develop my own AI applications. I am interested in Python-Typescript integration based on [Storybook](https://storybook.js.org/docs), which is the 'Python Storybook' project.
 
-### Projects
+## Projects
 
-**Micro-wise Development**
+### Micro-wise Development
 
 - **Initiation**: This project was inspired by Storybook, or component-driven development. In Storybook, each component is developed and tested separately, and you can generate dedicated examples for each component. I decided to import this concept to Python.
 
 - **Repository**: Please check the [repository](https://github.com/crimson206/microwise-development) for general information.
 
-**Python-Storybook**: The purpose of this project is to generate Storybook (TypeScript) components automatically from Python functions. See the prototype below.
+### Python-Storybook
 
-![python storybook example](static/python_storybook/endpoint.png)
-![python storybook example](static/python_storybook/component.png)
+The purpose of this project is to generate Storybook (TypeScript) components automatically from Python functions. Visit the [Prototype](https://6691601188f3f72d8d939beb-mszvyduajt.chromatic.com/?path=/docs/introduction--docs) for the example and introduction.
 
-Although I haven't provided an example with a function, all of the below must be automated:
-
-- {FuncName}InputProps(BaseModel)
-- {FuncName}OutProps(BaseModel)
-- All the elements in Props, such as annotation, description.
-- endpoint
-- TypeScript function wrapper
-- Storybook Component
-
-**Delaying Factors**
-
-- **Reliability**: The example is generated in that automatic manner above. For agreed types (int, str, List...) through `json`, all the technical stacks were prepared. However, I will not buy into potential dependency hell. Therefore, its priority is behind that of Micro-wise Development. A stable and extendable Python-Storybook will be published sooner or later with clean, stable and extendable code.
-
-- **Publication Generalization**: To generate an interactive document of Python modules, app publication is currently the most stable method. There are attempts to use Python directly in the browser ([Pyodide](https://github.com/pyodide/pyodide), [Python in StackBlitz](https://developer.stackblitz.com/guides/user-guide/available-environments#webcontainers), etc.), but they are unstable and limited. Therefore, we will use GCP or AWS to deploy endpoints. This means users will use the cloud computational resources that you need to pay for, and we need a generalized controller for rate limits at least.
 
 **Further Usage**
 
