@@ -20,7 +20,7 @@
 
 ### Current Position
 
-저는 개인 개발자로서 대부분의 시간과 역량을 제 핵심 프로젝트에 투자하고 있으며, 임시적으로 Fraunhofer IIS에서 Working Student position을 겸하고 있습니다.
+저는 개인 개발자로서 대부분의 시간과 역량을 제 핵심 프로젝트에 투자하고 있으며, 임시적으로 Data Science 쪽 Working Student position을 겸하고 있습니다.
 
 ### Collaboration Opportunity
 

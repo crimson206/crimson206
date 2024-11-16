@@ -19,7 +19,7 @@ I am a developer striving for advanced automation in programming, using a new me
 
 ### Current Position
 
-Currently, I dedicate most of my time and resources to my core projects as an independent developer, while also holding a working student position at Fraunhofer IIS on a temporary basis.
+Currently, I dedicate most of my time and resources to my core projects as an independent developer, while also holding a working student position in the Data Science field on a temporary basis.
 
 ### Collaboration Opportunity
 
