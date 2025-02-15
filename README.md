@@ -2,28 +2,19 @@
 
 
 ## Table of Contents
-1. [About Me](#about-me)
-   - [Personal Goal as a Professional Developer](#personal-goal-as-a-professional-developer)
-   - [Current Position](#current-position)
-   - [Collaboration Opportunity](#collaboration-opportunity)
-2. [Micro-wise-Development](#micro-wise-development)
-3. [AutoDocs](#autodocs)
-4. [Break Conventions](#break-conventions)
-5. [Python-Typescript Integration](#python-typescript-integration)
+- [Table of Contents](#table-of-contents)
+- [About Me](#about-me)
+  - [Personal Goal as a Professional Developer](#personal-goal-as-a-professional-developer)
+- [Micro-wise-Development](#micro-wise-development)
+- [AutoDocs](#autodocs)
+- [Break Conventions](#break-conventions)
+- [Python-Typescript Integration](#python-typescript-integration)
 
 ## About Me
 
 ### Personal Goal as a Professional Developer
 
 I am a developer striving for advanced automation in programming, using a new methodology called MWD ([Micro-wise-Development](https://github.com/crimson206/micro-wise-development)). This automation aims to integrate deterministic approaches based on conventional programming with dynamic approaches powered by AI.
-
-### Current Position
-
-Currently, I dedicate most of my time and resources to my core projects as an independent developer, while also holding a working student position in the Data Science field on a temporary basis.
-
-### Collaboration Opportunity
-
-MWD is an innovative development methodology that I believe will be widely adopted by professional developers in the future. As the creator and an early adopter of MWD, I am confident in the efficiency gains it can bring to diverse development environments. If you are interested in introducing MWD into your organization or exploring its business potential, please contact me at sisung.kim1@gmail.com.
 
 ## Micro-wise-Development
 

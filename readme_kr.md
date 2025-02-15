@@ -2,14 +2,13 @@
 
 
 ## Table of Contents
-1. [About Me](#about-me)
-   - [Personal Goal as a Professional Developer](#personal-goal-as-a-professional-developer)
-   - [Current Position](#current-position)
-   - [Collaboration Opportunity](#collaboration-opportunity)
-2. [Micro-wise-Development](#micro-wise-development)
-3. [AutoDocs](#autodocs)
-4. [Break Conventions](#break-conventions)
-5. [Python-Typescript Integration](#python-typescript-integration)
+- [Table of Contents](#table-of-contents)
+- [About Me](#about-me)
+  - [Personal Goal as a Professional Developer](#personal-goal-as-a-professional-developer)
+- [Micro-wise-Development](#micro-wise-development)
+- [AutoDocs](#autodocs)
+- [Break Conventions](#break-conventions)
+- [Python-Typescript Integration](#python-typescript-integration)
 
 
 ## About Me
@@ -17,14 +16,6 @@
 ### Personal Goal as a Professional Developer
 
 저는 MWD([Micro-wise-Development](https://github.com/crimson206/micro-wise-development))라는 새로운 개발 방법론을 제시하고, 이를 통해 프로그래밍의 고도화된 자동화를 실현하는 개발자입니다. 이 자동화는 프로그래밍 기반의 결정론적(deterministic) 접근과 AI를 활용한 동적(dynamic) 접근을 통합적으로 활용하는 것을 지향합니다.
-
-### Current Position
-
-저는 개인 개발자로서 대부분의 시간과 역량을 제 핵심 프로젝트에 투자하고 있으며, 임시적으로 Data Science 쪽 Working Student position을 겸하고 있습니다.
-
-### Collaboration Opportunity
-
-MWD는 앞으로 많은 전문 개발자들이 채택하게 될 혁신적인 개발 방법론입니다. 이 방법론의 창안자이자 실제 적용 경험자로서, MWD가 다양한 개발 환경에서 가져올 수 있는 획기적인 효율성 향상을 확신합니다. MWD를 조직에 도입하거나 사업화에 관심이 있으신 분들은 이메일(sisung.kim1@gmail.com)로 연락 주시기 바랍니다.
 
 ## Micro-wise-Development
 
